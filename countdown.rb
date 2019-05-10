@@ -14,5 +14,5 @@ def countdown_with_sleep(counter)
     counter-=1
     sleep 1
   end
-  phrase = "HAPPY NEW YEAR!"  
+  phrase = "HAPPY NEW YEAR!"
 end
